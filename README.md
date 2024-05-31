@@ -1,8 +1,11 @@
 # YiweiLi_yili0186_9103individualtask;
 
-## Final Project Individual Task;
+### Individual Task Inspiration;
 
-** I used ‘Time-based: animation using timers and events...’ based on the group source code, to add a flow effect to the waves. **
+** I used ‘Time-based: animation using timers and events...’ based on the group source code, to add a flow effect to the waves and rainfall. **
+
+![wave inspiration gif](inspiration1.gif)
+![rain inspiration gif](inspiration2.gif)
 
 ### Change Description for waves;
 
@@ -17,7 +20,7 @@
 
 ![wave image](<wave Image_20240531182849.png>)
 
-#### Change Description for Rainfalls;
+### Change Description for Rainfalls;
 
 ** Similarly, I added a rain animation effect to the group's original canvas.
    Construction function: set the position, length, speed and weight of the raindrops.
@@ -33,7 +36,7 @@
 
 ![rain image](<rain Image_20240531182912.png>)
 
-##### Comment Explained:
+### Comment Explained;
 
 1. Raindrop class:
 ** Set raindrops with random position, length, weight and set faster speed.
@@ -44,10 +47,13 @@
 ** Sets the number of wave layers, starting Y position and height of each layer.
    Calculates the position and loops through each wave layer. **
 
+### Uniqueness;
+
+** Unique to the other team members, I animated the canvas to be more realistic, as well as the rain effect. The other two team members used Audio and Perlin noise to change the colours of the canvas, added other elements and even made the waves move according to the frequency of the sound, which were very creative ideas. **
 
 
-###### Tips
-- > This is a blockquote
-- [] () This is link to reference
-- ! [] () This is link to image
+#### Tips
+- > This is a blockquote.
+- [] () This is link to reference.
+- ! [] () This is link to image or gif.
 - The original code comments in sketch.js were removed from my single session because the code was too long with the comments; the other changes were based on  the animations I wanted to create.
